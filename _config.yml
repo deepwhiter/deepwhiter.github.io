@@ -1,0 +1,10 @@
+name: Dong Han
+markdown: redcarpet
+redcarpet:
+    extensions: ["fenced_code_blocks", "autolink", "tables", "strikethrough"]
+permalink: /:year/:month/:day/:title 
+title: Dong Han
+timezone: America/New_York
+subscribe: http://azalea.github.io/feed.xml
+githubEditBaseURL: https://github.com/deepwhiter/deepwhiter.github.io/edit/master/
+disqusShortname: donghan
