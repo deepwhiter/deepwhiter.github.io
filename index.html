@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Dong Han
+title: deepwhiter 
 ---
 {% for post in site.posts limit:3 %}
 <div class="wrapper">
@@ -8,7 +8,7 @@ title: Dong Han
 	<span class="post-date">{{ post.date | date:"%b %e, %Y" }}</span>
 	{% if post.excerpt %}
 		<p>{{post.excerpt}}</p>
-		<p><a class="btn small" href="{{ post.url }}">阅读全文 &raquo; </a></p>
+		<p><a class="btn small" href="{{ post.url }}">Reading Full Context &raquo; </a></p>
 	{% else %}
 		{{ post.content }}
 		{% for tag in post.tags %}
