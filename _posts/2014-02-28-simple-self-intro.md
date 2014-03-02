@@ -7,7 +7,7 @@ tags:
   
 ---
 
-As a scientist to be, I will keep asking myself: Is this making any sense or ligical? 
+As a scientist to be, I will keep asking myself: Is this making any sense or logical? 
 
 
 
