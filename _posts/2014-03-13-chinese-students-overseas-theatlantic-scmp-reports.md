@@ -1,6 +1,6 @@
 ---
 layout: post
-title: About some interesting reports
+title: On two interesting reports
 categories: 
 tags:
   - news
@@ -12,6 +12,10 @@ tags:
 
 
 1. The first report is from "The Atlantic", Nov-2013
+
+
+![screenshot1]({{http:// deepwhiter.me/2014-03-13-chinese-students-overseas-theatlantic-scmp-reports.md }}/assets/03-13-2014-screenshot.jpg)
+
 
 'We’re Not This Alien Group': Chinese Students on Fitting In at U.S. Colleges'
 
@@ -28,10 +32,13 @@ Other videos discuss “Why Chinese Students Don’t Party,” (they place a hig
  
 “We’re not this alien ‘other’ group,” Cecilia Miao, one of the channel’s founders, told the Wisconsin State Journal. “We should try to celebrate differences, not ignore it.”
 
-![My helpful screenshot]({{http:// deepwhiter.me/2014-03-13-chinese-students-overseas-theatlantic-scmp-reports.md }}/assets/03-13-2014-screenshot.jpg)
+
 
 
 2. The other one from 南华早报
+
+![screenshot2]({{http:// deepwhiter.me/2014-03-13-chinese-students-overseas-theatlantic-scmp-reports.md }}/assets/03-13-2014-screenshot-2.jpg)
+
 
 Surprisingly, one in four Chinese students drop out of Ivy league schools. Here is the news
 
