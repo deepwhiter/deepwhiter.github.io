@@ -28,6 +28,8 @@ Other videos discuss “Why Chinese Students Don’t Party,” (they place a hig
  
 “We’re not this alien ‘other’ group,” Cecilia Miao, one of the channel’s founders, told the Wisconsin State Journal. “We should try to celebrate differences, not ignore it.”
 
+({{ http://deepwhiter.me/2014/03/13/chinese-students-overseas-theatlantic-scmp-reports/}}/assets/03-13-2014-screenshot.jpg)
+
 
 2. The other one from 南华早报
 
