@@ -17,7 +17,7 @@ tags:
 ![screenshot1]({{http:// deepwhiter.me/2014-03-13-chinese-students-overseas-theatlantic-scmp-reports.md }}/assets/03-13-2014-screenshot.jpg)
 
 
-'We’re Not This Alien Group': Chinese Students on Fitting In at U.S. Colleges'
+'We are Not This Alien Group': Chinese Students on Fitting In at U.S.Colleges'
 
 Four Chinese students at the University of Wisconsin-Madison, where Chinese enrollment has [grown 356 percent in the last decade](http://host.madison.com/wsj/news/local/education/university/chinese-students-at-uw-madison-take-to-youtube-to-explain/article_24c670a6-d906-5327-89be-e3414d5107c8.html), have set out to educate their American peers about themselves. They’ve taken to YouTube to explain the social misunderstandings that block many foreign students—particularly those from Asia—from integrating with the slang-speaking, booze-guzzling Americans.
 
