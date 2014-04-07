@@ -10,14 +10,13 @@ tags:
 ---
 
 
-1. [Zing Chart](http://www.zingchart.com)
+1.[Zing Chart](http://www.zingchart.com)
 
 JavaScript based charting library, seems very handy and usefull
 
 Recomendation: 
 
-
-2. [Visual.ly](http://create.visual.ly) 
+2.[Visual.ly](http://create.visual.ly) 
 
 A combined gallery and infographic generation tool Good for someone who wishes to be an infor-junkie's 
 
@@ -25,8 +24,7 @@ A combined gallery and infographic generation tool Good for someone who wishes t
 
 Recomendation: 
 
-
-3. [Infographics](http://www.jumsoft.com/infographics/) 
+3.[Infographics](http://www.jumsoft.com/infographics/) 
 
 ![screenshot]({{http:// deepwhiter.me/2014-04-06-data-visulization.md }}/assets/04-06.jpg)
 
