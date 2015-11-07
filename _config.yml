@@ -1,9 +1,9 @@
-name: 白说
+name: Medical Physics Notes by Deepwhiter
 markdown: redcarpet
 redcarpet:
     extensions: ["fenced_code_blocks", "autolink", "tables", "strikethrough"]
 permalink: /:year/:month/:day/:title 
-title: 白说
+title: Medical Physics Notes by Deepwhiter
 timezone: America/New_York
 subscribe: http://deepwhiter.github.io/feed.xml
 githubEditBaseURL: https://github.com/deepwhiter/deepwhiter.github.io/edit/master/
