@@ -1,7 +1,5 @@
 name: Medical Physics Notes by Deepwhiter
-markdown: redcarpet
-redcarpet:
-    extensions: ["fenced_code_blocks", "autolink", "tables", "strikethrough"]
+markdown: kramdown
 permalink: /:year/:month/:day/:title 
 title: Medical Physics Notes by Deepwhiter
 timezone: America/New_York
